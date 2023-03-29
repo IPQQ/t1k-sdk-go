@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"git.in.chaitin.net/patronus/t1k-sdk/sdk/go/pkg/misc"
-	"git.in.chaitin.net/patronus/t1k-sdk/sdk/go/pkg/detection"
+	"github.com/W0n9/t1k-sdk-go/pkg/detection"
+	"github.com/W0n9/t1k-sdk-go/pkg/misc"
 )
 
 const (

@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"testing"
 
-	"git.in.chaitin.net/patronus/t1k-sdk/sdk/go/pkg/detection"
-	"git.in.chaitin.net/patronus/t1k-sdk/sdk/go/pkg/misc"
+	"github.com/W0n9/t1k-sdk-go/pkg/detection"
+	"github.com/W0n9/t1k-sdk-go/pkg/misc"
 )
 
 func TestWriteDetectRequest(t *testing.T) {

@@ -3,7 +3,7 @@ package gosnserver
 import (
 	"io"
 
-	"git.in.chaitin.net/patronus/t1k-sdk/sdk/go/pkg/t1k"
+	"github.com/W0n9/t1k-sdk-go/pkg/t1k"
 )
 
 func DoHeartbeat(s io.ReadWriter) error {

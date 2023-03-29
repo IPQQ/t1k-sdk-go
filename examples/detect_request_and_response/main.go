@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"git.in.chaitin.net/patronus/t1k-sdk/sdk/go/pkg/detection"
-	"git.in.chaitin.net/patronus/t1k-sdk/sdk/go/pkg/gosnserver"
+	"github.com/W0n9/t1k-sdk-go/pkg/detection"
+	"github.com/W0n9/t1k-sdk-go/pkg/gosnserver"
 )
 
 func panicIf(err error) {

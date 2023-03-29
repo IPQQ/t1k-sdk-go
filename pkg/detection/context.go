@@ -1,7 +1,7 @@
 package detection
 
 import (
-	"git.in.chaitin.net/patronus/t1k-sdk/sdk/go/pkg/misc"
+	"github.com/W0n9/t1k-sdk-go/pkg/misc"
 )
 
 type DetectionContext struct {
