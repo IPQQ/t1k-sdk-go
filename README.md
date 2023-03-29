@@ -228,5 +228,3 @@ func (r *MyCustomResponse) T1KContext() ([]byte, error) {
 
 完整的检测代码参见 [custom_request_response](sdk/go/examples/custom_request_response/main.go)
 
-
-# t1k-sdk-go
